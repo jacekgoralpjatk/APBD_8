@@ -1,0 +1,57 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ApbdDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TripApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[s24881].[Client]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[s24881].[Client_Trip]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[s24881].[Country]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[s24881].[Country_Trip]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[s24881].[Trip]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "db-mssql16.2019SBD.s24881",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": true,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
